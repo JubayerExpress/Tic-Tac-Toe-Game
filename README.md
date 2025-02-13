@@ -2,7 +2,7 @@
 
 This is a **Tic-Tac-Toe** game where a human player competes against the computer. Built with HTML, CSS, and JavaScript, the computer randomly selects its move after the human player's turn.
 
-[**Play the Game Live Here**]  katakati.netlify.app 
+**Play the Game Live Here**  katakati.netlify.app 
 
 ## Features
 
